@@ -1,0 +1,26 @@
+${AnsiColor.GREEN}
+                                                         BBBBBBBBBBBBBBBBB   lllllll
+                                                         B::::::::::::::::B  l:::::l
+                                                         B::::::BBBBBB:::::B l:::::l
+                                                         BB:::::B     B:::::Bl:::::l
+zzzzzzzzzzzzzzzzz    cccccccccccccccc   qqqqqqqqq   qqqqq  B::::B     B:::::B l::::l    ooooooooooo      ggggggggg   ggggg
+z:::::::::::::::z  cc:::::::::::::::c  q:::::::::qqq::::q  B::::B     B:::::B l::::l  oo:::::::::::oo   g:::::::::ggg::::g
+z::::::::::::::z  c:::::::::::::::::c q:::::::::::::::::q  B::::BBBBBB:::::B  l::::l o:::::::::::::::o g:::::::::::::::::g
+zzzzzzzz::::::z  c:::::::cccccc:::::cq::::::qqqqq::::::qq  B:::::::::::::BB   l::::l o:::::ooooo:::::og::::::ggggg::::::gg
+      z::::::z   c::::::c     cccccccq:::::q     q:::::q   B::::BBBBBB:::::B  l::::l o::::o     o::::og:::::g     g:::::g
+     z::::::z    c:::::c             q:::::q     q:::::q   B::::B     B:::::B l::::l o::::o     o::::og:::::g     g:::::g
+    z::::::z     c:::::c             q:::::q     q:::::q   B::::B     B:::::B l::::l o::::o     o::::og:::::g     g:::::g
+   z::::::z      c::::::c     cccccccq::::::q    q:::::q   B::::B     B:::::B l::::l o::::o     o::::og::::::g    g:::::g
+  z::::::zzzzzzzzc:::::::cccccc:::::cq:::::::qqqqq:::::q BB:::::BBBBBB::::::Bl::::::lo:::::ooooo:::::og:::::::ggggg:::::g
+ z::::::::::::::z c:::::::::::::::::c q::::::::::::::::q B:::::::::::::::::B l::::::lo:::::::::::::::o g::::::::::::::::g
+z:::::::::::::::z  cc:::::::::::::::c  qq::::::::::::::q B::::::::::::::::B  l::::::l oo:::::::::::oo   gg::::::::::::::g
+zzzzzzzzzzzzzzzzz    cccccccccccccccc    qqqqqqqq::::::q BBBBBBBBBBBBBBBBB   llllllll   ooooooooooo       gggggggg::::::g
+                                                 q:::::q                                                          g:::::g
+                                                 q:::::q                                              gggggg      g:::::g
+                                                q:::::::q                                             g:::::gg   gg:::::g
+                                                q:::::::q                                              g::::::ggg:::::::g
+                                                q:::::::q                                               gg:::::::::::::g
+                                                qqqqqqqqq                                                 ggg::::::ggg
+                                                                                                             gggggg
+${AnsiColor.BRIGHT_RED}z${AnsiColor.CYAN}c${AnsiColor.BLUE}q${AnsiColor.BRIGHT_YELLOW}B${AnsiColor.MAGENTA}l${AnsiColor.WHITE}og${AnsiColor.YELLOW}::${AnsiColor.BRIGHT_BLUE} Spring Boot Remote :: ${spring-boot.formatted-version}
+${AnsiColor.BLACK}
